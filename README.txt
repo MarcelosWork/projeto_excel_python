@@ -1,0 +1,1 @@
+Coloca o template.xlsx na mesma pasta e corre: python gerar_excel.py exemplo.json
